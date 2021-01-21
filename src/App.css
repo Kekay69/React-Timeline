@@ -6,7 +6,13 @@ body {
 }
 
 .title {
-  font-size: 12em;
+  font-size: 4em;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.subtitle {
+  font-size: 3em;
   text-align: center;
   font-family: "Bebas Neue", sans-serif;
 }
